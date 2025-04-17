@@ -6,17 +6,10 @@ Github Finder Python Base Code To Find Everything You Want In Github
 
 # Installation
 <ol> 
-<li>Download the Notebook</li>
-<li>Upload Project Folder to Drive</li>
-<li>Upload Notebook to Colab and Run</li>
-<li>Make Sure To Use Keras3</li>
-<li>Make Sure You Have Tensorflow</li>
+<li>Download Code </li>
+<li>pip install regex</li>
+<li>pip install requests</li>
 </ol>
-
-<br><br>
-
-# Dataset
-<p>The Project Dataset Is In Archive Folder Or You Can Downnload It From Your Kaggle Account.</p>
 
 <br><br>
 
