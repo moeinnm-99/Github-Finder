@@ -41,7 +41,7 @@ def fetch_and_sort_github_repositories(topic, access_token, max_results=200):
     
     print(f"Data saved to {output_file}")
 
-topic = "RSI"  # The Sunject You Want To Find!
+topic = ""  # The Sunject You Want To Find!
 access_token = ""  # Enter Your Github Token
 
 fetch_and_sort_github_repositories(topic, access_token)
